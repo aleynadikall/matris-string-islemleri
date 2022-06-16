@@ -4,7 +4,7 @@ Kullanıcıya Şekil1’de olduğu gibi Matris veya String İşlemlerinden birin
 Menüsü ekrana çıkartacaktır.
 ![Screenshot_33](https://user-images.githubusercontent.com/79109512/174189495-d33b51a2-2ddf-4084-b211-02e53cd40be8.png)
 
-Kullanıcı 3 numaralı seçeneği seçtiğinde Şekil2’deki mesaj verilerek program sonlandırılacaktır.
+Kullanıcı 3 numaralı seçeneği seçtiğinde mesaj verilerek program sonlandırılacaktır.
 ![Screenshot_34](https://user-images.githubusercontent.com/79109512/174189606-77c7da9f-5ff1-4bde-9ff3-b40ee7e5d12b.png)
 
 Eğer 1, 2 veya 3 dışında bir değer girilirse mesaj verilerek ekran temizlendikten sonra tekrar menü gösterilecektir.
